@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\mrvin\Mobile Apps\OCASTUDENTAPP\platforms\android\libs"/></dataSet><dataSet config="debug"><source path="C:\Users\mrvin\Mobile Apps\OCASTUDENTAPP\platforms\android\src\debug\jniLibs"/></dataSet></merger>
